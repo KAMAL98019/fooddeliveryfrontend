@@ -1,0 +1,11 @@
+.register-body{
+    width: 100vw;
+    height: 100vh;
+
+    background: url('../assets/auth-bgimage.jpg') no-repeat center center/cover; 
+    background-color: #ffffff;
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    scale: 100%;
+}
