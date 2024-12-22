@@ -1,11 +1,13 @@
-import NavBar from "./navbar";
-
+import Home from "../home";
 const Layout = () => {
-    return (
+  return (
+    <>
       <div className="">
-        <NavBar />
+      <Home />
       </div>
-    );
-  };
+      
+    </>
+  );
+};
 
-  export default Layout;
+export default Layout;

@@ -17,7 +17,7 @@ const NavBar = () => {
   };
 
   return (
-    <nav className="fixed w-full bg-[#fc8019] py-4 px-4">
+    <nav className="sticky w-full bg-[#fc8019] py-4 px-4">
       <div className="flex justify-between items-center">
         {/* Logo Section */}
         <div className="flex items-center gap-3">

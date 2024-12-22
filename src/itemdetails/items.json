@@ -1,0 +1,109 @@
+{
+    "items": [
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Mushroom Burger",
+          "price": 5.59,
+          "url": "items/1.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Bean Burger",
+          "price": 5.59,
+          "url":"items/2.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Lamb Burger",
+          "price": 5.59,
+          "url":"items/3.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Potato Burger",
+          "price": 5.59,
+          "url":"items/4.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Veggie Burger",
+          "price": 5.59,
+          "url":"items/5.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Pizza Burger",
+          "price": 5.59,
+          "url":"items/6.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Corn Burger",
+          "price": 5.59,
+          "url":"items/7.jpg"
+        }
+      },
+      {
+        "restaurant": {
+          "name": "Fast Food Resto",
+          "rating": 5.0,
+          "reviews": "1k+",
+          "distance_km": 2.97
+        },
+        "menu": {
+          "item": "Chees Burger",
+          "price": 5.59,
+          "url":"items/8.jpg"
+        }
+      }
+    ]
+  }
+  
